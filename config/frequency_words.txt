@@ -4,8 +4,30 @@ coze
 扣子
 火山引擎
 
+字节
+bytedance
+张一鸣
+
+gemini
+
+nanobanana
+谷歌
+google
+deepmind
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
+
 DeepSeek
 梁文锋
+
+ai
+!gai
+人工智能
 
 华为
 鸿蒙
@@ -26,10 +48,6 @@ DJI
 京东
 刘强东
 
-字节
-bytedance
-张一鸣
-
 特斯拉
 马斯克
 
@@ -42,26 +60,10 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
